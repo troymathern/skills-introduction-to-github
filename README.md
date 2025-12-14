@@ -36,7 +36,6 @@ Branches allow you to separate your work from the `main` branch. In other words,
 
 **What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
 
-![profile-readme-example](/images/profile-readme-example.png)
 
 ### :keyboard: Activity: Your first branch
 
@@ -56,8 +55,6 @@ Branches allow you to separate your work from the `main` branch. In other words,
 
    The branch will automatically switch to the one you have just created.
    The **main** branch drop-down bar will reflect your new branch and display the new branch name.
-
-6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
 
